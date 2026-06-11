@@ -19,3 +19,6 @@ A voice assistant built entirely in Google Colab using:
 - Speech recognition (Google API)
 - AI-generated responses
 - Voice playback output
+
+This lets anyone open your notebook directly in Colab with one click.
+(https://colab.research.google.com/github/shandanaS/voice-chatbot/blob/main/voice_chatbot.ipynb)
